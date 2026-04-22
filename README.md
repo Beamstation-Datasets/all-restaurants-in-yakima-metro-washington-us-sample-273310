@@ -1,6 +1,6 @@
 # All Restaurants in Yakima (Metro), Washington, US
 
-> Free BeamStation sample export with 39 rows and masked direct-contact fields.
+> Free BeamStation sample export with 41 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `273310` |
 | Location | Yakima, WA |
 | Category | Restaurants |
-| Full dataset size | 396 records |
-| Free sample size | 39 records (9.85%) |
-| Last export | 2026-04-14T17:38:38.920899+00:00 |
+| Full dataset size | 411 records |
+| Free sample size | 41 records (9.98%) |
+| Last export | 2026-04-21T19:21:37.328175+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-yakima-metro-washington-us-sample-273310/releases/download/sample-latest/beamstation_273310_restaurants-us-yakimawa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
