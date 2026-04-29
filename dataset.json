@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Restaurant dataset spanning the Yakima (Metro), Washington metropolitan area including Yakima. Spans multiple municipalities within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in Yakima (Metro), Washington, US",
-  "export_job_id": "9f859f16-2038-473a-9c24-a7d5b5f38ae8",
+  "export_job_id": "539dee8e-6fd3-4b82-aa59-29c08d14ee2e",
   "github_org": "Beamstation-Datasets",
   "id_short": 273310,
   "location_name": "Yakima, WA",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-yakima-metro-washington-us-sample-273310",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/273310/beamstation_273310_restaurants-us-yakimawa_SAMPLE_DIST.csv",
   "sample_pct": 9.98,
-  "sample_records": 41,
-  "sample_sha256": "3cecf986fcbac422a6371c674a3d233b5e0492354eb04548a763d5380ec69b5d",
-  "sample_size_bytes": 137295,
-  "total_records": 411,
-  "updated_at": "2026-04-21T19:21:37.328175+00:00"
+  "sample_records": 43,
+  "sample_sha256": "89965491b9945e6ccf768acfb584cd81f8e09d78cb489f0b28bada75cd0df527",
+  "sample_size_bytes": 155589,
+  "total_records": 431,
+  "updated_at": "2026-04-28T20:47:56.095236+00:00"
 }
