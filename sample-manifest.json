@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9f859f16-2038-473a-9c24-a7d5b5f38ae8",
+  "export_job_id": "539dee8e-6fd3-4b82-aa59-29c08d14ee2e",
   "id_short": 273310,
-  "published_at": "2026-04-22T07:17:58Z",
+  "published_at": "2026-04-29T07:30:40Z",
   "repo_name": "all-restaurants-in-yakima-metro-washington-us-sample-273310",
   "sample_asset_name": "beamstation_273310_restaurants-us-yakimawa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/273310/beamstation_273310_restaurants-us-yakimawa_SAMPLE_DIST.csv",
-  "sample_records": 41,
-  "sample_sha256": "3cecf986fcbac422a6371c674a3d233b5e0492354eb04548a763d5380ec69b5d",
-  "sample_size_bytes": 137295,
-  "total_records": 411
+  "sample_records": 43,
+  "sample_sha256": "89965491b9945e6ccf768acfb584cd81f8e09d78cb489f0b28bada75cd0df527",
+  "sample_size_bytes": 155589,
+  "total_records": 431
 }
